@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 mapping = (
-    u"abvgdezijklmnoprstufhcC'y'ABVGDEZIJKLMNOPRSTUFH'Y'",
-    u"абвгдезийклмнопрстуфхцЦъыьАБВГДЕЗИЙКЛМНОПРСТУФХЪЫЬ",
+    u"abvgdezijklmnoprdsadasdstufhcC'y'ABVGDEZIJKLMNOPRSTUFH'Y'",
+    u"абвгдезийклмнsdadaопрстуфхцЦъыьАБВГДЕЗИЙКЛМНОПРСТУФХЪЫЬ",
 )
 
 reversed_specific_mapping = (
